@@ -1,0 +1,2 @@
+# mynewsite
+Django Personal Blog
